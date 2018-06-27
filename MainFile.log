@@ -1,0 +1,2019 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.14)  5 JUN 2018 08:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**MainFile.tex
+(./MainFile.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+\@input{header.aux}
+\openout2 = `header.aux'.
+
+(./header.tex (./treport.cls
+Document Class: treport 2007/22/02 v1.0 LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/vmargin/vmargin.sty
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+\PaperWidth=\dimen103
+\PaperHeight=\dimen104
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen105
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks17
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amscd.sty
+Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
+\athelp@=\toks19
+\minaw@=\dimen114
+\bigaw@=\dimen115
+\minCDarrowwidth=\dimen116
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks25
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@example=\count100
+\c@theorem=\count101
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks26
+)
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@tempdima=\dimen120
+\caption@indent=\dimen121
+\caption@parindent=\dimen122
+\caption@hangindent=\dimen123
+)
+\c@ContinuedFloat=\count102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count103
+))
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip58
+\subfigcapskip=\skip59
+\subfigcaptopadj=\dimen126
+\subfigbottomskip=\skip60
+\subfigcapmargin=\dimen127
+\subfiglabelskip=\skip61
+\c@subfigure=\count104
+\c@lofdepth=\count105
+\c@subtable=\count106
+\c@lotdepth=\count107
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip62
+\subfig@bottom=\skip63
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen128
+\lightrulewidth=\dimen129
+\cmidrulewidth=\dimen130
+\belowrulesep=\dimen131
+\belowbottomsep=\dimen132
+\aboverulesep=\dimen133
+\abovetopsep=\dimen134
+\cmidrulesep=\dimen135
+\cmidrulekern=\dimen136
+\defaultaddspace=\dimen137
+\@cmidla=\count108
+\@cmidlb=\count109
+\@aboverulesep=\dimen138
+\@belowrulesep=\dimen139
+\@thisruleclass=\count110
+\@lastruleclass=\count111
+\@thisrulewidth=\dimen140
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count112
+\rotFPtop=\skip64
+\rotFPbot=\skip65
+\rot@float@box=\box28
+\rot@mess@toks=\toks27
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count113
+\lst@gtempboxa=\box29
+\lst@token=\toks28
+\lst@length=\count114
+\lst@currlwidth=\dimen141
+\lst@column=\count115
+\lst@pos=\count116
+\lst@lostspace=\dimen142
+\lst@width=\dimen143
+\lst@newlines=\count117
+\lst@lineno=\count118
+\lst@maxwidth=\dimen144
+
+(./lstpatch.sty
+
+***
+*** This is a patch for listings 1.3, but you're using
+*** version 1.6.
+***
+*** Patch file not loaded.
+***
+
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count119
+\lst@skipnumbers=\count120
+\lst@framebox=\box30
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(./lstpatch.sty
+
+***
+*** This is a patch for listings 1.3, but you're using
+*** version 1.6.
+***
+ *** Patch file not loaded.
+***
+
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen145
+\Hy@linkcounter=\count121
+\Hy@pagecounter=\count122
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count123
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4374.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4374.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4374
+.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 4374.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4374.
+Package hyperref Info: Option `unicode' set `true' on input line 4374.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2017/03/14 v6.85a Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4374.
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count124
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen146
+\Fld@menulength=\count125
+\Field@Width=\dimen147
+\Fld@charsize=\dimen148
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring ON on input line 6376.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count126
+\c@Item=\count127
+\c@Hfootnote=\count128
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count129
+\c@bookmark@seq@number=\count130
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip66
+)
+\c@dummy=\count131
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip67
+\LTright=\skip68
+\LTpre=\skip69
+\LTpost=\skip70
+\LTchunksize=\count132
+\LTcapwidth=\dimen149
+\LT@head=\box31
+\LT@firsthead=\box32
+\LT@foot=\box33
+\LT@lastfoot=\box34
+\LT@cols=\count133
+\LT@rows=\count134
+\c@LT@tables=\count135
+\c@LT@chunks=\count136
+\LT@p@ftn=\toks29
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 3.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip71
+\bibsep=\skip72
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count137
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks30
+\verbatim@line=\toks31
+\verbatim@in@stream=\read1
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box35
+\beforetitleunit=\skip73
+\aftertitleunit=\skip74
+\ttl@plus=\dimen150
+\ttl@minus=\dimen151
+\ttl@toksa=\toks32
+\titlewidth=\dimen152
+\titlewidthlast=\dimen153
+\titlewidthfirst=\dimen154
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+\@indexfile=\write3
+\openout3 = `MainFile.idx'.
+
+
+Writing index file MainFile.idx
+) (./MainFile.aux)
+\openout1 = `MainFile.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count138
+\scratchdimen=\dimen155
+\scratchbox=\box36
+\nofMPsegments=\count139
+\nofMParguments=\count140
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count141
+\MPscratchDim=\dimen156
+\MPnumerator=\count142
+\makeMPintoPDFobject=\count143
+\everyMPtoPDFconversion=\toks34
+)
+\c@lstlisting=\count144
+\AtBeginShipoutBox=\box37
+Package hyperref Info: Link coloring ON on input line 3.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count145
+)
+LaTeX Info: Redefining \ref on input line 3.
+LaTeX Info: Redefining \pageref on input line 3.
+LaTeX Info: Redefining \nameref on input line 3.
+
+(./MainFile.out) (./MainFile.out)
+\@outlinefile=\write4
+\openout4 = `MainFile.out'.
+
+ (./frontmatter.tex
+------------------------------------------------------------------------------
+ Title Page
+------------------------------------------------------------------------------
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 19.
+
+<PTULogo.pdf, id=176, 289.08pt x 289.08pt>
+File: PTULogo.pdf Graphic file (type pdf)
+ <use PTULogo.pdf>
+Package pdftex.def Info: PTULogo.pdf used on input line 19.
+(pdftex.def)             Requested size: 142.26378pt x 142.26357pt.
+ [1
+
+
+
+\@writefile{lof}{\renewcommand *\addvspace [1]{}}
+\@writefile{lot}{\renewcommand *\addvspace [1]{}}
+
+
+
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./PTULo
+go.pdf>] (./frontmatter/Certificate.tex
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 2.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 2.
+
+) [1
+
+
+
+
+] (./frontmatter/Abstract.tex) [2
+
+
+] (./frontmatter/Acknowledgement.tex)
+[3
+
+
+]
+------------------------------------------------------------------------------
+ LIST OF FIGURES
+------------------------------------------------------------------------------
+(./MainFile.lof
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \addvspace {10\p@ }
+                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \addvspace {10\p@ }
+                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \addvspace {10\p@ }
+                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (4.63716pt too wide) in paragraph at lines 74--4
+[] 
+ []
+
+
+Overfull \hbox (4.63716pt too wide) in paragraph at lines 74--4
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--4
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [4
+
+
+])
+\tf@lof=\write5
+\openout5 = `MainFile.lof'.
+
+ [5]
+(./frontmatter/Nomenclature.tex) [6
+
+
+
+]
+------------------------------------------------------------------------------
+ tableofcontents
+------------------------------------------------------------------------------
+(./MainFile.toc
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...xtit {Candidate's Declaration}}{i}{dummy.2}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (4.63716pt too wide) in paragraph at lines 97--1
+[] 
+ []
+
+
+Overfull \hbox (4.63716pt too wide) in paragraph at lines 97--1
+[] 
+ []
+
+[7
+
+
+])
+\tf@toc=\write6
+\openout6 = `MainFile.toc'.
+
+ [8]) (./Introduction/intro.tex
+Chapter 1.
+------------------------------------------------------------------------------
+ 1 Introduction to Organisation
+------------------------------------------------------------------------------
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--24
+
+ []
+
+[1
+
+
+
+
+] [2]
+Chapter 2.
+------------------------------------------------------------------------------
+ 2 Introduction to Project
+------------------------------------------------------------------------------
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--41
+
+ []
+
+[3
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--79
+
+ []
+
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 90--94
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 95.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 95.
+ [6]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ” in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--111
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 117--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+[8] [9]
+Chapter 3.
+------------------------------------------------------------------------------
+ 3 Product Design
+------------------------------------------------------------------------------
+[10
+
+] [11] <flowchart.png, id=428, 534.99875pt x 424.58624pt>
+File: flowchart.png Graphic file (type png)
+
+<use flowchart.png>
+Package pdftex.def Info: flowchart.png used on input line 209.
+(pdftex.def)             Requested size: 453.60808pt x 360.00595pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+[12 <./flowchart.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 216--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--219
+
+ []
+
+
+Overfull \hbox (15.3928pt too wide) in paragraph at lines 224--237
+\OT1/cmr/m/n/12 Other NoSQL databases that have gained promi-nence in-clude clo
+ud-hosted NoSQL databases
+ []
+
+[13] [14] [15] <erdiagram.png, id=451, 626.34pt x 501.875pt>
+File: erdiagram.png Graphic file (type png)
+
+<use erdiagram.png>
+Package pdftex.def Info: erdiagram.png used on input line 241.
+(pdftex.def)             Requested size: 453.60808pt x 363.47864pt.
+ [16 <./erdiagram.png>] [17]
+Chapter 4.
+------------------------------------------------------------------------------
+ 4 Development and Implementation
+------------------------------------------------------------------------------
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ‘ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--277
+
+ []
+
+[18
+
+] [19] [20]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--306
+
+ []
+
+[21]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Overfull \hbox (3.68024pt too wide) in paragraph at lines 321--323
+[]\OT1/cmr/m/n/12 exports.newUserCreated = func-tions.database.ref('/messages/u
+serID').onCreate(event =>
+ []
+
+[22]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [23]
+
+! LaTeX Error: \begin{document} ended by \end{itemize}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.348 \end{itemize}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.348 \end{itemize}
+                   
+Things are pretty mixed up, but I think the worst is over.
+
+[24] <SplashYes.png, id=500, 1084.05pt x 1927.2pt>
+File: SplashYes.png Graphic file (type png)
+ <use SplashYes.png>
+Package pdftex.def Info: SplashYes.png used on input line 356.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [25 <./SplashYes.png>] <SplashNo.png, id=508, 1084.05pt x 1927.2pt>
+File: SplashNo.png Graphic file (type png)
+ <use SplashNo.png>
+Package pdftex.def Info: SplashNo.png used on input line 363.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+
+[26 <./SplashNo.png>] <LoginScreen.png, id=515, 1084.05pt x 1927.2pt>
+File: LoginScreen.png Graphic file (type png)
+
+<use LoginScreen.png>
+Package pdftex.def Info: LoginScreen.png used on input line 370.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [27 <./LoginScreen.png>]
+<MainActivity.png, id=521, 1084.05pt x 1927.2pt>
+File: MainActivity.png Graphic file (type png)
+ <use MainActivity.png>
+Package pdftex.def Info: MainActivity.png used on input line 377.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+
+[28 <./MainActivity.png>] <NavigationView.png, id=528, 1084.05pt x 1927.2pt>
+File: NavigationView.png Graphic file (type png)
+
+<use NavigationView.png>
+Package pdftex.def Info: NavigationView.png used on input line 384.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [29 <./NavigationView.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.390 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<SelectCategoryMenu.png, id=534, 1084.05pt x 1927.2pt>
+File: SelectCategoryMenu.png Graphic file (type png)
+
+<use SelectCategoryMenu.png>
+Package pdftex.def Info: SelectCategoryMenu.png used on input line 392.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [30 <./SelectCategoryMenu.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.398 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<ServiceListMenu.png, id=540, 1084.05pt x 1927.2pt>
+File: ServiceListMenu.png Graphic file (type png)
+ <use ServiceListMenu.png>
+Package pdftex.def Info: ServiceListMenu.png used on input line 400.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+
+[31 <./ServiceListMenu.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.406 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<OffersMenu.png, id=546, 1084.05pt x 1927.2pt>
+File: OffersMenu.png Graphic file (type png)
+ <use OffersMenu.png>
+Package pdftex.def Info: OffersMenu.png used on input line 408.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [32 <./OffersMenu.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.414 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<EnabledCategories.png, id=552, 1084.05pt x 1927.2pt>
+File: EnabledCategories.png Graphic file (type png)
+
+<use EnabledCategories.png>
+Package pdftex.def Info: EnabledCategories.png used on input line 416.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [33 <./EnabledCategories.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.422 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<DisablesCategories.png, id=558, 1084.05pt x 1927.2pt>
+File: DisablesCategories.png Graphic file (type png)
+
+<use DisablesCategories.png>
+Package pdftex.def Info: DisablesCategories.png used on input line 424.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [34 <./DisablesCategories.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.430 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<AddCategory.png, id=565, 1084.05pt x 1927.2pt>
+File: AddCategory.png Graphic file (type png)
+ <use AddCategory.png>
+Package pdftex.def Info: AddCategory.png used on input line 432.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [35 <./AddCategory.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.438 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<EditCategory.png, id=571, 1084.05pt x 1927.2pt>
+File: EditCategory.png Graphic file (type png)
+ <use EditCategory.png>
+Package pdftex.def Info: EditCategory.png used on input line 440.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+
+[36 <./EditCategory.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.446 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<EnabledServicesList.png, id=577, 1084.05pt x 1927.2pt>
+File: EnabledServicesList.png Graphic file (type png)
+
+<use EnabledServicesList.png>
+Package pdftex.def Info: EnabledServicesList.png used on input line 448.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [37 <./EnabledServicesList.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.454 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<DisabledServiceList.png, id=583, 1084.05pt x 1927.2pt>
+File: DisabledServiceList.png Graphic file (type png)
+
+<use DisabledServiceList.png>
+Package pdftex.def Info: DisabledServiceList.png used on input line 456.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [38 <./DisabledServiceList.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.462 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<AddServiceActivity.png, id=589, 1084.05pt x 1927.2pt>
+File: AddServiceActivity.png Graphic file (type png)
+
+<use AddServiceActivity.png>
+Package pdftex.def Info: AddServiceActivity.png used on input line 464.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [39 <./AddServiceActivity.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.470 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<EditService.png, id=595, 1084.05pt x 1927.2pt>
+File: EditService.png Graphic file (type png)
+ <use EditService.png>
+Package pdftex.def Info: EditService.png used on input line 472.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [40 <./EditService.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.478 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<ActiveEmployeeList.png, id=602, 1084.05pt x 1927.2pt>
+File: ActiveEmployeeList.png Graphic file (type png)
+
+<use ActiveEmployeeList.png>
+Package pdftex.def Info: ActiveEmployeeList.png used on input line 480.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [41 <./ActiveEmployeeList.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.486 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<DeactiveEmployeeList.png, id=608, 1084.05pt x 1927.2pt>
+File: DeactiveEmployeeList.png Graphic file (type png)
+
+<use DeactiveEmployeeList.png>
+Package pdftex.def Info: DeactiveEmployeeList.png used on input line 488.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [42 <./DeactiveEmployeeList.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.494 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<AddEmployeeActivity.png, id=614, 1084.05pt x 1927.2pt>
+File: AddEmployeeActivity.png Graphic file (type png)
+
+<use AddEmployeeActivity.png>
+Package pdftex.def Info: AddEmployeeActivity.png used on input line 496.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [43 <./AddEmployeeActivity.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.502 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<EditEmployeeActivity.png, id=621, 1084.05pt x 1927.2pt>
+File: EditEmployeeActivity.png Graphic file (type png)
+
+<use EditEmployeeActivity.png>
+Package pdftex.def Info: EditEmployeeActivity.png used on input line 504.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [44 <./EditEmployeeActivity.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.510 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<EnabledEmployeeDesinationList.png, id=627, 1084.05pt x 1927.2pt>
+File: EnabledEmployeeDesinationList.png Graphic file (type png)
+
+<use EnabledEmployeeDesinationList.png>
+Package pdftex.def Info: EnabledEmployeeDesinationList.png used on input line 5
+12.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [45 <./EnabledEmployeeDesinationList.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.518 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<DisabledEmployeeDesignationList.png, id=633, 1084.05pt x 1927.2pt>
+File: DisabledEmployeeDesignationList.png Graphic file (type png)
+
+<use DisabledEmployeeDesignationList.png>
+Package pdftex.def Info: DisabledEmployeeDesignationList.png used on input line
+ 520.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [46 <./DisabledEmployeeDesignationList.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.526 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<AddDesignationDialog.png, id=640, 1084.05pt x 1927.2pt>
+File: AddDesignationDialog.png Graphic file (type png)
+
+<use AddDesignationDialog.png>
+Package pdftex.def Info: AddDesignationDialog.png used on input line 528.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [47 <./AddDesignationDialog.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.534 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<EditDesignationDialog.png, id=646, 1084.05pt x 1927.2pt>
+File: EditDesignationDialog.png Graphic file (type png)
+
+<use EditDesignationDialog.png>
+Package pdftex.def Info: EditDesignationDialog.png used on input line 536.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [48 <./EditDesignationDialog.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.542 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<ClientList.png, id=652, 1084.05pt x 1927.2pt>
+File: ClientList.png Graphic file (type png)
+ <use ClientList.png>
+Package pdftex.def Info: ClientList.png used on input line 544.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [49 <./ClientList.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.550 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<AddClient.png, id=658, 1084.05pt x 1927.2pt>
+File: AddClient.png Graphic file (type png)
+ <use AddClient.png>
+Package pdftex.def Info: AddClient.png used on input line 552.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [50 <./AddClient.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.558 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<EditClient.png, id=664, 1084.05pt x 1927.2pt>
+File: EditClient.png Graphic file (type png)
+ <use EditClient.png>
+Package pdftex.def Info: EditClient.png used on input line 560.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [51 <./EditClient.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.566 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<AddAppointmentDialog.png, id=670, 1084.05pt x 1927.2pt>
+File: AddAppointmentDialog.png Graphic file (type png)
+
+<use AddAppointmentDialog.png>
+Package pdftex.def Info: AddAppointmentDialog.png used on input line 568.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [52 <./AddAppointmentDialog.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.574 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<EnabledOffersList.png, id=677, 1084.05pt x 1927.2pt>
+File: EnabledOffersList.png Graphic file (type png)
+
+<use EnabledOffersList.png>
+Package pdftex.def Info: EnabledOffersList.png used on input line 576.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [53 <./EnabledOffersList.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.582 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<DisabledOffersList.png, id=683, 1084.05pt x 1927.2pt>
+File: DisabledOffersList.png Graphic file (type png)
+
+<use DisabledOffersList.png>
+Package pdftex.def Info: DisabledOffersList.png used on input line 584.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [54 <./DisabledOffersList.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.590 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<AddOffer.png, id=689, 1084.05pt x 1927.2pt>
+File: AddOffer.png Graphic file (type png)
+ <use AddOffer.png>
+Package pdftex.def Info: AddOffer.png used on input line 592.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [55 <./AddOffer.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.598 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<EditOffer.png, id=695, 1084.05pt x 1927.2pt>
+File: EditOffer.png Graphic file (type png)
+ <use EditOffer.png>
+Package pdftex.def Info: EditOffer.png used on input line 600.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [56 <./EditOffer.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.606 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<RedeemPointChooseClient.png, id=701, 1084.05pt x 1927.2pt>
+File: RedeemPointChooseClient.png Graphic file (type png)
+
+<use RedeemPointChooseClient.png>
+Package pdftex.def Info: RedeemPointChooseClient.png used on input line 608.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [57 <./RedeemPointChooseClient.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.614 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<RedeemPointChooseOffer.png, id=707, 1084.05pt x 1927.2pt>
+File: RedeemPointChooseOffer.png Graphic file (type png)
+
+<use RedeemPointChooseOffer.png>
+Package pdftex.def Info: RedeemPointChooseOffer.png used on input line 616.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [58 <./RedeemPointChooseOffer.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.622 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<EmployeeAccountsDateRange.png, id=714, 1084.05pt x 1927.2pt>
+File: EmployeeAccountsDateRange.png Graphic file (type png)
+
+<use EmployeeAccountsDateRange.png>
+Package pdftex.def Info: EmployeeAccountsDateRange.png used on input line 624.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [59 <./EmployeeAccountsDateRange.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.630 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<EmployeeAccounts.png, id=720, 1084.05pt x 1927.2pt>
+File: EmployeeAccounts.png Graphic file (type png)
+
+<use EmployeeAccounts.png>
+Package pdftex.def Info: EmployeeAccounts.png used on input line 632.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [60 <./EmployeeAccounts.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.638 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<ViewAppointmentSelectDate.png, id=726, 1084.05pt x 1927.2pt>
+File: ViewAppointmentSelectDate.png Graphic file (type png)
+
+<use ViewAppointmentSelectDate.png>
+Package pdftex.def Info: ViewAppointmentSelectDate.png used on input line 640.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [61 <./ViewAppointmentSelectDate.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.646 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<ViewAppointments.png, id=732, 1084.05pt x 1927.2pt>
+File: ViewAppointments.png Graphic file (type png)
+
+<use ViewAppointments.png>
+Package pdftex.def Info: ViewAppointments.png used on input line 648.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [62 <./ViewAppointments.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.654 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<GenerateReceiptChooseClient.png, id=738, 1084.05pt x 1927.2pt>
+File: GenerateReceiptChooseClient.png Graphic file (type png)
+
+<use GenerateReceiptChooseClient.png>
+Package pdftex.def Info: GenerateReceiptChooseClient.png used on input line 656
+.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [63 <./GenerateReceiptChooseClient.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.662 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<GenerateReceiptSelectServices.png, id=744, 1084.05pt x 1927.2pt>
+File: GenerateReceiptSelectServices.png Graphic file (type png)
+
+<use GenerateReceiptSelectServices.png>
+Package pdftex.def Info: GenerateReceiptSelectServices.png used on input line 6
+64.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [64 <./GenerateReceiptSelectServices.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.670 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<GenerateReceipt.png, id=751, 1084.05pt x 1927.2pt>
+File: GenerateReceipt.png Graphic file (type png)
+ <use GenerateReceipt.png>
+Package pdftex.def Info: GenerateReceipt.png used on input line 672.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+
+[65 <./GenerateReceipt.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.678 \begin
+            {figure}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<GeneratedInvoice.png, id=757, 1084.05pt x 1927.2pt>
+File: GeneratedInvoice.png Graphic file (type png)
+
+<use GeneratedInvoice.png>
+Package pdftex.def Info: GeneratedInvoice.png used on input line 680.
+(pdftex.def)             Requested size: 317.52426pt x 564.49037pt.
+ [66 <./GeneratedInvoice.png>]
+! Undefined control sequence.
+l.706 	\itemAndroid
+                    unit test - which runs on the Android runtime
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[67]
+Underfull \hbox (badness 10000) in paragraph at lines 711--718
+
+ []
+
+[68] [69]
+Chapter 5.
+------------------------------------------------------------------------------
+ 5 Conclusion and Future Scope
+------------------------------------------------------------------------------
+[70
+
+]
+Chapter 6.
+------------------------------------------------------------------------------
+ 6 Refrences
+------------------------------------------------------------------------------
+
+Overfull \hbox (10.44682pt too wide) in paragraph at lines 742--743
+[]\OT1/cmr/m/n/12 https://developers.google.com/maps/documentation/android-api/
+marker [ac-cesed on
+ []
+
+
+Overfull \hbox (30.35634pt too wide) in paragraph at lines 745--747
+[]\OT1/cmr/m/n/12 https://www.learnhowtoprogram.com/android/data-persistence/fi
+rebase-recycleradapter
+ []
+
+
+Overfull \hbox (27.02304pt too wide) in paragraph at lines 747--750
+[]\OT1/cmr/m/n/12 http://www.vogella.com/tutorials/AndroidTesting/article.html 
+[ac-cesed on 15/04/2018]. 
+ []
+
+
+Overfull \hbox (14.42873pt too wide) in paragraph at lines 752--754
+[]\OT1/cmr/m/n/12 https://stackoverflow.com/questions/41550558/firebase-authent
+ication-depending-on-
+ []
+
+
+Overfull \hbox (12.2093pt too wide) in paragraph at lines 754--757
+[]\OT1/cmr/m/n/12 https://stackoverflow.com/questions/27187725/retrieving-speci
+fic-data-from-firebase-
+ []
+
+[71
+
+]
+Overfull \hbox (35.18684pt too wide) in paragraph at lines 757--759
+[]\OT1/cmr/m/n/12 https://stackoverflow.com/questions/14963776/get-users-by-nam
+e-property-using-firebase
+ []
+
+
+Overfull \hbox (7.63991pt too wide) in paragraph at lines 759--761
+[]\OT1/cmr/m/n/12 https://stackoverflow.com/questions/43374077/i-want-to-retrie
+ve-all-users-uid-from-
+ []
+
+! Misplaced alignment tab character &.
+l.763 ...ps://www.youtube.com/watch?v=xEHHdpxW7iA&
+                                                  t=374s [accessed on 28/04/...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (16.46622pt too wide) in paragraph at lines 763--764
+[]\OT1/cmr/m/n/12 https://www.youtube.com/watch?v=xEHHdpxW7iAt=374s [ac-cessed 
+on 28/04/2018]. 
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 28.
+ [72]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 28.
+ (./MainFile.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 28.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 28.
+
+
+Package rerunfilecheck Warning: File `MainFile.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `MainFile.out':
+(rerunfilecheck)             Before: 4A39BA99080201D6C1EBC066BFDDA158;7388
+(rerunfilecheck)             After:  B1A0AE141EE18421B9F428D25825AE15;7268.
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.72pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 28.
+ ) 
+Here is how much of TeX's memory you used:
+ 13584 strings out of 492995
+ 194333 string characters out of 6132703
+ 266486 words of memory out of 5000000
+ 16675 multiletter control sequences out of 15000+600000
+ 12272 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 53i,12n,47p,862b,477s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{figure.caption.92} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.91} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.40} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.35} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.100} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.99} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.98} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.97} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.96} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.95} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.93} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.50} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.49} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.48} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.47} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.45} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.44} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.43} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.41} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.38} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.37} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.36} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.33} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.30} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.23} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.22} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.21} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.20} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.19} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.17} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{dummy.12} has been referenced but does not exist, r
+eplaced by a fixed one
+
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on MainFile.pdf (81 pages, 4752859 bytes).
+PDF statistics:
+ 888 PDF objects out of 1000 (max. 8388607)
+ 700 compressed objects within 7 object streams
+ 225 named destinations out of 1000 (max. 500000)
+ 570 words of extra memory for PDF output out of 10000 (max. 10000000)
+

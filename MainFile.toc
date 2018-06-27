@@ -1,0 +1,42 @@
+\contentsline {chapter}{\textit {Candidate's Declaration}}{i}{dummy.2}
+\contentsline {chapter}{\textit {Abstract}}{ii}{dummy.4}
+\contentsline {chapter}{\textit {Acknowledgement}}{iii}{dummy.6}
+\contentsline {chapter}{\textit {List of Figures}}{iv}{dummy.8}
+\contentsline {chapter}{\textit {List of Abbreviations}}{vi}{dummy.10}
+\contentsline {chapter}{\numberline {1}Introduction to Organisation}{1}{chapter.13}
+\contentsline {section}{\numberline {1.1}Organisation Profile and History}{1}{section.14}
+\contentsline {chapter}{\numberline {2}Introduction to Project}{3}{chapter.15}
+\contentsline {section}{\numberline {2.1}Overview}{3}{section.16}
+\contentsline {section}{\numberline {2.2}Existing System}{6}{section.17}
+\contentsline {section}{\numberline {2.3}User Requirement Analysis}{6}{section.18}
+\contentsline {subsection}{\numberline {2.3.1}Requirements Gathering}{6}{subsection.19}
+\contentsline {subsection}{\numberline {2.3.2}Functional Requirements}{7}{subsection.20}
+\contentsline {section}{\numberline {2.4}Feasibility Study}{7}{section.21}
+\contentsline {section}{\numberline {2.5}Objectives of the Project }{9}{section.27}
+\contentsline {chapter}{\numberline {3}Product Design}{10}{chapter.28}
+\contentsline {section}{\numberline {3.1}Product Perspective}{10}{section.29}
+\contentsline {section}{\numberline {3.2}Product Functions}{11}{section.30}
+\contentsline {section}{\numberline {3.3}Constraints}{12}{section.31}
+\contentsline {section}{\numberline {3.4}Flow Chart}{12}{section.32}
+\contentsline {section}{\numberline {3.5}Database Design}{13}{section.34}
+\contentsline {subsection}{\numberline {3.5.1}NoSQL Database}{13}{subsection.35}
+\contentsline {subsection}{\numberline {3.5.2}NoSQL vs. RDBMS}{13}{subsection.36}
+\contentsline {section}{\numberline {3.6}E-R Diagrams}{16}{section.37}
+\contentsline {section}{\numberline {3.7}Assumptions and Dependencies}{16}{section.39}
+\contentsline {section}{\numberline {3.8}Specific Requirements}{17}{section.40}
+\contentsline {chapter}{\numberline {4}Development and Implementation}{18}{chapter.41}
+\contentsline {section}{\numberline {4.1}Introduction to Languages}{18}{section.42}
+\contentsline {subsection}{\numberline {4.1.1}Front End}{18}{subsection.43}
+\contentsline {subsection}{\numberline {4.1.2}Back End}{21}{subsection.44}
+\contentsline {section}{\numberline {4.2}Supporting Languages}{23}{section.45}
+\contentsline {subsection}{\numberline {4.2.1}GIT}{23}{subsection.46}
+\contentsline {subsection}{\numberline {4.2.2}Android Studio}{23}{subsection.47}
+\contentsline {section}{\numberline {4.3}Implementation with ScreenShots}{25}{section.48}
+\contentsline {section}{\numberline {4.4}Testing}{67}{section.91}
+\contentsline {subsection}{\numberline {4.4.1}Unit Testing in Android}{67}{subsection.92}
+\contentsline {subsection}{\numberline {4.4.2}Required dependencies in the Gradle build file}{68}{subsection.93}
+\contentsline {subsection}{\numberline {4.4.3}Writing tests to run on the Android device}{68}{subsection.94}
+\contentsline {chapter}{\numberline {5}Conclusion and Future Scope}{70}{chapter.95}
+\contentsline {section}{\numberline {5.1}Conclusion}{70}{section.96}
+\contentsline {section}{\numberline {5.2}Future Scope}{70}{section.97}
+\contentsline {chapter}{\numberline {6}Refrences}{71}{chapter.98}
